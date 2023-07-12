@@ -1,2 +1,2 @@
 # pearl-social
-A social media web application.
+A social media web app.
